@@ -1,0 +1,12 @@
+script.py
+setup.py
+Mensajes.egg-info/PKG-INFO
+Mensajes.egg-info/SOURCES.txt
+Mensajes.egg-info/dependency_links.txt
+Mensajes.egg-info/top_level.txt
+paquete/__init__.py
+paquete/setup.py
+paquete/adios/__init__.py
+paquete/adios/despedidas.py
+paquete/hola/__init__.py
+paquete/hola/saludos.py
