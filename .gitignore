@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 dist/
 Messages.egg-info/
+build/
+lookandcris_hello.egg-info/
